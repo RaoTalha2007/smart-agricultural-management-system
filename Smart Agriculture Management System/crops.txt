@@ -1,0 +1,5 @@
+1,Rice,Loamy,High,Summer
+2,Milled,Sandy,Low,Summer
+3,Wheat,Sandy,High,Spring
+4,Mustard,Loamy,Medium,Winter
+5,Maize,Sandy,Medium,Spring
