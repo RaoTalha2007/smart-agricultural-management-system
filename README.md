@@ -1,0 +1,1 @@
+"# smart-agricultural-management-system" 
